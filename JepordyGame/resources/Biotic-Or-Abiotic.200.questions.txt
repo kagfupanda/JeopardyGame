@@ -1,0 +1,25 @@
+﻿Water is.
+Abiotic
+Autotroph
+Fungi
+0
+Affect the ability of organisms to survive and reproduce.
+Biotic
+Abiotic
+organisms
+1
+Affects Individual of a species, population, community, ecosystem, biome, biosphere.
+Individuals
+Species
+Abiotic
+2
+describes a living component of an ecosystem.
+Plant
+Biotic
+Cell
+1
+These are organisms.
+Biotic
+Ecology
+Biology
+0

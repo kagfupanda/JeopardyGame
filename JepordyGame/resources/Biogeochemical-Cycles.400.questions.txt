@@ -1,0 +1,30 @@
+﻿ion lost electrons, so +.
+Cation
+Anion
+Sink
+0
+ion gained electrons so -.
+Cation
+Anion
+Element
+1
+Two or more elements (molecule smallest unit).
+Element
+Atom
+Compound
+2
+ionic(cations and anions), covalent (sharing), Van der Waals (weak, molecules), metallic.
+four types of bonding
+Compounds
+Force
+0
+rate of transfer, amount per unit time of a chemical that enters or leaves a storage compartment.
+Force
+power
+Flux
+2
+the receiving compartment.
+solid
+Sink
+Element
+1

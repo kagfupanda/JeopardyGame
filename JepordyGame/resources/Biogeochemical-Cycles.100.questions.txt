@@ -1,0 +1,25 @@
+﻿the complete path a chemical takes through the four major components of Earth's system.
+biogeochemical cycle
+Atmosphere
+Lithosphere
+0
+layer of gases surrounding Earth.
+lithosphere
+Atmosphere
+Stratosphere
+1
+is the solid outer section of Earth, which includes Earth's crust, rocks and soils.
+Lithosphere
+atmosphere 
+Space
+0
+oceans, rivers, lakes, groundwaters, glaciers.
+Atmosphere
+lithosphere
+Hydrosphere
+2
+plants and animals.
+atmosphere
+Biosphere
+Lithosphere
+1

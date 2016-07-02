@@ -1,0 +1,25 @@
+﻿the amount of oxygen a quantity of water uses over a period of time at a specific temperature.
+biochemical oxygen demand
+Ecological demand
+Species demand
+0
+an area with little oxygen and thus, little life.
+Ecological zone
+Industrial zone
+dead zone
+2
+process by which a body of water becomes too rich in dissolved nutrients, leading to plant growth that depletes oxygen.
+evaporation
+Eutrophication
+Condensation
+1
+when a body of water experiences an increase in fertility due to anthropogenic inputs of nutrients.
+Environmental eutrophication
+cultural eutrophication
+Economical eutrophication
+1
+an organism that indicates whether or not disease-causing pathogens are likely to be present
+indicator species.
+Normal species
+Abnormal species
+0

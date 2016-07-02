@@ -1,0 +1,25 @@
+﻿World population.
+7 billion
+15 billion
+9 billion
+0
+United States Population.
+315 million
+220 million
+310 million
+2
+China population.
+1.3 billion
+1.1 billion
+1.5 billion
+0
+India population.
+1.2 billion
+1.1 billion
+1.3 billion
+1
+percentages of growth in developed countries.
+0.5%
+1%
+1.5%
+0

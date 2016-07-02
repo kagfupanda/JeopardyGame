@@ -1,0 +1,25 @@
+﻿Pollution caused when sulfuric acid and dangerous dissolved materials such as lead, arsenic, and cadmium wash from coal and metal mines into nearby lakes and streams (often turning water red).
+rain
+acid mine drainage
+Evaporation
+1
+a persistent insecticide that is also toxic to animals and humans (nervous system harm).
+DDT
+Mercury
+Iron
+0
+synthetic chemicals containing chlorine that are used in the manufacture of plastics and other industrial products, become stored in the tissue of animals, and also persist in the environment.
+polyester
+PCBs
+Nylon
+1
+synthetic compounds that provide fire retardant properties and are used in a diverse array of consumer products including computers, tvs, plastics and furniture.
+PBDEs
+PCBs
+Nylon
+0
+When a source of thermal pollution first starts off, fish and other organisms adapted to particular temperature range can be killed by the abrupt change in water temperature.
+Ecological shock
+thermal shock
+Industrial shock
+1

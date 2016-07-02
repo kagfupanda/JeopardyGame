@@ -1,0 +1,30 @@
+﻿The ground area around a septic tank through which waste waters filters after leaving the tank.
+leach field
+Dark field
+Topsoil
+0
+large, human made ponds lined with rubber to prevent the manure from leaking into the groundwater.
+pond
+manure lagoon
+Lake
+1
+a heavy metal that contaminates water when it passes through lined pipes, solder, brass fittings and paint. It damages the nervous system.
+Lead
+Mercury
+Phosphorus
+0
+a naturally occurring compound that can dissolve in groundwater. Often mining and industrial uses can contribute to water contamination. It acts as a carcinogen.
+Lead
+mercury
+Arsenic
+2
+a naturally occurring heavy metal that is also the result of burning coal and other fossil fuels. Limestone used to make cement can contain it too. It acts as an endocrine disruptor.
+Lead
+Iron
+Mercury
+2
+Precipitation with a pH less than 5.6 that forms in the atmosphere when certain pollutants (sulphates and nitrates) mix with water vapor.
+acid deposition
+Water deposition
+Oil deposition
+0

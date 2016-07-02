@@ -1,0 +1,25 @@
+﻿early species exude toxins, hinder later species.
+Mutation
+succession
+Allelopathy
+2
+early species have no direct effect on later species.
+Tolerance
+Mutation
+Biome
+0
+it occurs when there are constant disturbances.
+Migration
+ecosystems
+chronic patchiness
+2
+the theoretical endpoint of succession.
+Peaceful state
+climax state
+Biological state
+1
+biomass and soil.
+plantation
+nutrient reservoirs
+Agriculture
+1

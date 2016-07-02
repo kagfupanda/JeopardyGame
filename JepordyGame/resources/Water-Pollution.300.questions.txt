@@ -1,0 +1,25 @@
+﻿a group of generally harmless microorganisms that live in the intestines of human beings and other animals.
+fungi
+fecal coliform
+Algae
+1
+Small wastewater system used by a single home or business.
+septic system
+Drainage system
+Wastewater plant
+0
+a large container that receives wastewater from the house. Used to treat household sewage and wastewater by allowing the solids to decompose and settle in a tank, then letting the liquid be absorbed by the soil in a drainage/leach field.
+Oil tank
+septic tank
+Gas tank
+1
+anything heavier than water in a septic tank.
+Sludge
+Waste
+Bacteria
+0
+the middle layer of fairly clear water (often in a septic tank), contains large quantities of bacteria and may also contain pathogenic organisms and inorganic nutrients such as nitrogen and phosphorous.
+Septage
+Biome
+Oil
+0
